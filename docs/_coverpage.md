@@ -1,23 +1,10 @@
 
 
 
-![logo](_media/fhu-logo-small.png)
+![logo](_media/title2.png)
 
-# FHU Help Wiki
-
-> Generated from Markdown-written guides in the GitHub Repository.
-
-- Simple and lightweight
-- No statically built html files
-- Easy to contribute.
-
-> Contribute some guides today!
-
-[GitHub](https://github.com/FHUnleashed/FHU)
-[Getting Started](#FeralHeart-Unleashed-Help-Wiki)
-
-
+# FeralHeart Unleashed Wiki
 
 <!-- background color -->
 
-![color](#3F3F3F)
+![color](#181a1b)
